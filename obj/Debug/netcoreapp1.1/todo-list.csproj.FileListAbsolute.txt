@@ -6,3 +6,11 @@
 /Users/Guest/todo-list/bin/Debug/netcoreapp1.1/todo-list.pdb
 /Users/Guest/todo-list/obj/Debug/netcoreapp1.1/todo-list.dll
 /Users/Guest/todo-list/obj/Debug/netcoreapp1.1/todo-list.pdb
+/Users/Guest/Desktop/todo-list/bin/Debug/netcoreapp1.1/todo-list.deps.json
+/Users/Guest/Desktop/todo-list/bin/Debug/netcoreapp1.1/todo-list.runtimeconfig.json
+/Users/Guest/Desktop/todo-list/bin/Debug/netcoreapp1.1/todo-list.runtimeconfig.dev.json
+/Users/Guest/Desktop/todo-list/obj/Debug/netcoreapp1.1/todo-list.AssemblyInfo.cs
+/Users/Guest/Desktop/todo-list/obj/Debug/netcoreapp1.1/todo-list.dll
+/Users/Guest/Desktop/todo-list/obj/Debug/netcoreapp1.1/todo-list.pdb
+/Users/Guest/Desktop/todo-list/bin/Debug/netcoreapp1.1/todo-list.dll
+/Users/Guest/Desktop/todo-list/bin/Debug/netcoreapp1.1/todo-list.pdb
