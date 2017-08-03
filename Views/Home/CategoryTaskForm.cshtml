@@ -1,0 +1,7 @@
+<h1>Add a new task to @Model["category"].GetName()</h1>
+<form action="/tasks" method="post">
+  <input type="hidden" name="category-id" value='@Model["category"].GetId()'>
+  <label for="task-description">Task description</label>
+  <input type="text" name="task-description" id="task-description">
+  <button type="submit">Add task</button>
+</form>

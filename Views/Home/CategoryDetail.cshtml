@@ -1,0 +1,9 @@
+<h2>Here are all the tasks in this category:</h2>
+<ol>
+  @foreach(var task in @Model["tasks"])
+  {
+    <li>@task.GetDescription()</li>
+  }
+</ol>
+<p><a href="/categories/@Model["category"].GetId()/tasks/new">Add a new Task</a></p>
+<p><a href="/">Return to main page</a></p>
